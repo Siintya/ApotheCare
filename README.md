@@ -1,5 +1,5 @@
 # ApotheCare
-ApotheCare is a modern online pharmacy platform built with Laravel. Designed to offer a seamless experience for both customers and pharmacy administrators, ApotheCare ensures that essential medicines are just a few clicks away.
+ApotheCare is a modern online pharmacy platform built with Laravel 11. Designed to offer a seamless experience for both customers and pharmacy administrators, ApotheCare ensures that essential medicines are just a few clicks away.
 
 ## How to install Laravel 11 on Ubuntu 20.04
 1. Install PHP & Composer
